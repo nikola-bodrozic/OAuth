@@ -1,0 +1,6 @@
+<?php
+$consumer_key = "secret";
+$consumer_secret = "secret";
+$token = "secret";
+$token_secret = "secret";
+?>
